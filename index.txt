@@ -1,0 +1,42 @@
+EDUGRP.CH(7)       Miscellaneous Information Manual       EDUGRP.CH(7)
+
+NAME
+       edugrp.ch - Swiss ed(1) user group
+
+DESCRIPTION
+       eudgrp.ch  is  the  Ed User Group Switzerland, the one and only
+       user group for the text editor ed(1) in Switzerland.
+
+       Why should anybody still use ed(1) in the twenty-first century?
+
+       First, ed(1) is the standard Unix text editor.
+
+       Second, if your video terminal breaks down, so that you  cannot
+       use  your  fancy screen-based text editor anymore, you can just
+       pull out your teletypewriter from the basement, and still  edit
+       text files using ed(1).
+
+       So  if  you  are  a nano(1) user, and need to write a letter of
+       complaint to your local Computer Science  professor  for  using
+       Comic Sans in his PowerPoint slides, or gdb(1) inside NetBeans,
+       and all of a sudden your screen catches fire,  don't  come  and
+       complain, but get your Teletype Model 33 from the basement, and
+       use ed(1) instead!
+
+HISTORY
+       The Ed User Group Switzerland was founded in November  2019  by
+       two reactionary Computer Science students at HSLU. They had too
+       much exposure to professors suggesting to use NetBeans  instead
+       of vim(1), so the students decided to head for the other direc‐
+       tion, and started to use ed(1) instead.
+
+MEMBERS
+       Pascal Kiser
+              Proficient ed(1) user, software archeologist, and inspi‐
+              rator. Contact: ⟨pascal.kiser@stud.hslu.ch⟩
+
+       Patrick Bucher
+              Chief  troll, software archeologist, and webmaster. Con‐
+              tact: ⟨patrick.bucher@stud.hslu.ch⟩
+
+                                                          EDUGRP.CH(7)
